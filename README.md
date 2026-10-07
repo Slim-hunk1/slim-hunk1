@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a AI Project tracker<br>Still trying to get my hands on a DevOps project<br>Currently learning Az-104 (Azure Admin)<br><br>Did you  know "the cloud" is just someone else's Data Center??
+Still trying to get my hands on a DevOps project<br>Currently learning Az-104 (Azure Admin)<br><br>Did you  know "the cloud" is just someone else's Data Center??
 
 
 ## 🌐 Socials:
