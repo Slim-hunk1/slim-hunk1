@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Still trying to get my hands on a DevOps project<br>Currently learning Az-104 (Azure Admin)<br><br>Did you know "the cloud" is just someone else's Data Center??
 
 
